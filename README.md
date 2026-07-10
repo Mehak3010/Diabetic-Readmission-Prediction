@@ -14,19 +14,21 @@ This project develops predictive models using historical Electronic Health Recor
 
 ## 📊 Dataset
 
-**Source:** UCI Machine Learning Repository
+This repository includes the **Diabetes 130-US Hospitals** dataset used for training and evaluation.
 
-- **Dataset:** Diabetes 130-US Hospitals (1999–2008)
+**Dataset Details**
+
 - **Patient Encounters:** 101,766
-- **Hospitals:** 130
-- **Features:** 50+ clinical and demographic attributes
+- **Hospitals:** 130 US hospitals
+- **Time Period:** 1999–2008
+- **Features:** 50+ demographic and clinical attributes
+- **Target:** 30-day hospital readmission
 
-> **Note:** The dataset is not included in this repository. Please download it from the UCI Machine Learning Repository or Kaggle and place it in:
+Dataset location:
 
 ```
-data/
+data/raw/
 ```
-
 ---
 
 ## 🚀 Project Workflow
