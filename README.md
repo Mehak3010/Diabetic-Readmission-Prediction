@@ -27,7 +27,7 @@ This repository includes the **Diabetes 130-US Hospitals** dataset used for trai
 Dataset location:
 
 ```
-data/raw/
+data/
 ```
 ---
 
